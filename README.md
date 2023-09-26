@@ -1,1 +1,1 @@
-A non empty readme.md
+This is the README.md in the root
